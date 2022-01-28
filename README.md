@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as Backend Developer with Php, NodeJs and Typescript
-- 🌱 I’m currently learning Typescript, NodeJs, NestJs and Python
+- 🌱 I’m currently learning Typescript, NodeJs, NestJs and Microservice Architecture
 - 💬 Ask me about programmation, music keyboard, God, whatever...
 
 <!-- in your header -->
