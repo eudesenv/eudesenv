@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as Backend Developer with Php, NodeJs and Typescript
 - 🌱 I’m currently learning Typescript, NodeJs, NestJs and Microservice Architecture
 - 💬 Ask me about programmation, music keyboard, God, whatever...
-<a href="https://app.daily.dev/eudesenv"><img src="https://api.daily.dev/devcards/v2/EwStza0hmu2QedJtvBeF4.png?r=pds&type=default" width="356" alt="Eudes's Dev Card"/></a>
+
 <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
@@ -46,3 +46,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Eudes-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
 </div>
 
+<div style="display: inline_block">  
+  <a href="https://app.daily.dev/eudesenv"><img src="https://api.daily.dev/devcards/v2/EwStza0hmu2QedJtvBeF4.png?r=pds&type=default" width="356" alt="Eudes's Dev Card"/></a>
+</div>
